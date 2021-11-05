@@ -171,7 +171,7 @@ button {
   font-weight: 700;
   font-size: max(10vmin, 1.4rem);
 
-  &::before {
+  /* &::before {
     content: '';
     position: absolute;
     top: 0;
@@ -186,7 +186,7 @@ button {
       hsl(var(--hue) 100% 70%) var(--progress, 0%),
       var(--track-bg) var(--progress, 0%) 100%
     );
-
+*/
 
   }
 
